@@ -1,1 +1,3 @@
-export const Greeter = (name: string) => `Hello ${name}`; 
+export function add(x:number,y:number): number{
+    return x+y;
+}
