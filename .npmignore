@@ -1,9 +1,9 @@
 test
-lib
+src
 node_modules
 tsconfig.json
-package.json
-LICENSE
+./package.json
+./LICENSE
 jest.config.js
 .gitignore
 yarn.lock
