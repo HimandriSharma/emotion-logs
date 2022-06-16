@@ -5,6 +5,7 @@
   "repository": "git@github.com:HimandriSharma/emotion-logs.git",
   "author": "Himandri Sharma <himandrisharma27@gmail.com>",
   "license": "MIT",
+  "files": ["lib/**/*"],
   "scripts": {
     "build": "tsc",
     "test": "jest"
