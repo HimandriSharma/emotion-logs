@@ -1,6 +1,6 @@
 ## emotion logs
 
-These logs are just like your console logs but adds a fun whie printing it i.e. it changes color as you call functions with your emotions.
+These logs are just like your console logs but adds a fun while printing it i.e. it changes color as you call functions with your emotions.
 
 Install the package.
 
